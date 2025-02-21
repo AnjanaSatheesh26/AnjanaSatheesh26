@@ -1,5 +1,5 @@
 ## Hi there 👋,I am Anjana Satheesh
-I am a zealous and aspiring computer scientist💮. I love solving problems and learning new things[at my own pace].
+I love solving problems and learning new things[at my own pace].
 <!--
 **AnjanaSatheesh26/AnjanaSatheesh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
